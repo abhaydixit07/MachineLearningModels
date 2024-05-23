@@ -1,0 +1,13 @@
+50 startups sheet is given wwe have to create a model to analyse that will tell in which company it shiul;d more likely invest
+profit is dependent varivables. 
+we want to see if there is any relation between profit and different categories where expenses are being made.
+dummy variables and dummy variable trap 
+we should not include all dummy variables
+suppose there are 2 varibles athatr are d1 = 1- d2
+The dummy variable trap is a situation that arises when dealing with categorical variables in regression analysis or machine learning models. It occurs when two or more dummy variables are highly correlated, leading to multicollinearity.
+
+In the context of categorical variables with two categories (binary), a common approach is to create dummy variables to represent each category. For example, if you have a variable "Color" with categories "Red" and "Blue," you might create a dummy variable like this:
+
+Dummy variable 1 (Red): 1 if the color is Red, 0 otherwise.
+Dummy variable 2 (Blue): 1 if the color is Blue, 0 otherwise.
+The trap occurs when you include both dummy variables in a regression model. If one variable can be perfectly predicted from the other, it leads to multicollinearity, which can cause issues in the estimation of model coefficients.

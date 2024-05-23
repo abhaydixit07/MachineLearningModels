@@ -1,0 +1,5 @@
+polynomail linearregresion
+y = b0 + b1x1 + b2x1^2 + b3x1^3 + .............
+eg how diseases spread scross regions or country
+but why it is still caleed linear
+because it can be expressed linearly
