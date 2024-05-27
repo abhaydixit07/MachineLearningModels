@@ -1,0 +1,3 @@
+random forest is a version of ensemble learning 
+we have got other versions such as gradient bosting
+Ensemble learning - is when we take multiple algorithms or same algorithm multiple times and put them together to give efficient result than orignal

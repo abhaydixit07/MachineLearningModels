@@ -1,0 +1,5 @@
+support vector regression developed in 1990
+Instead of just the “tube”, the SVR can use the “Epsilon Insensitivity Tube”
+In the SVR tube, the tube is used in a sense as a margin of error
+If a point falls in the tube we disregard errors that fall within it
+If a point falls outside the epsilon insensitive tube, we do care about the distance.

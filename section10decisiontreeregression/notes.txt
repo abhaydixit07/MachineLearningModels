@@ -1,0 +1,9 @@
+decison tree 
+cart = Classification and regression trees
+and this is and umbrella term that encompased two tyoes of decision trees
+regression trees are more complex than classification trees.
+it comsist of two variables x1 and x2 both independent and used to predict trhe third dependent varible y
+s1 and x2 are in 2d
+splits inthe grapgh and information entropy
+ech split is called leafs
+cecison trees isnto weel adapted to simple datasets
