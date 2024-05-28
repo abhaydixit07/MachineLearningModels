@@ -1,0 +1,2 @@
+residual sum of squares rsquare dirmula 
+Better the model lesser will be the R Square will  value If it is one then it would be perfect fit if it would be greater than 0.9 then very good if it it would be 0.7 not great zero .4 would be terrible and zero or less than zero then model makes no sense for this data set.
