@@ -1,0 +1,1 @@
+message_body=f'''Hi {customer_name}! Yours today's {STOCK}(Comapany's Name-{COMPANY_NAME}) share details are here: 
