@@ -1,0 +1,4 @@
+support vectors determine the algorithms
+line in the middle is called maximum margin hyperplane
+ support vectors are on the boundry of the epsilon boundry tube.
+ 
